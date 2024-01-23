@@ -2,7 +2,7 @@
     "name": "Eon-theme",
     "displayName": "Eon Theme",
     "description": "A Modern & futuristic theme by Mr.kumar",
-    "version": "1.2.4",
+    "version": "1.2.5",
     "publisher": "Mrkumar",
     "engines": {
         "vscode": "^1.0.0"
