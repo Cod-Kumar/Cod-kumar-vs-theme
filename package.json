@@ -2,7 +2,7 @@
     "name": "Eon-theme",
     "displayName": "Eon Theme",
     "description": "A Modern & futuristic theme by Mr.kumar",
-    "version": "1.2.0",
+    "version": "1.2.4",
     "publisher": "Mrkumar",
     "engines": {
         "vscode": "^1.0.0"
@@ -35,19 +35,24 @@
     "contributes": {
         "themes": [
             {
-                "label": "Eon Theme",
+                "label": "Eon Theme v1",
                 "uiTheme": "vs-dark",
                 "path": "./themes/eon-theme.json"
             },
             {
-                "label": "Eon Theme second",
+                "label": "Eon Theme v2",
                 "uiTheme": "vs-dark",
                 "path": "./themes/eon-theme-second.json"
             },
             {
-                "label": "Eon Theme Third",
+                "label": "Eon Theme v3",
                 "uiTheme": "vs-dark",
                 "path": "./themes/theme.color-theme.json"
+            },
+            {
+                "label": "Eon Theme v4",
+                "uiTheme": "vs-dark",
+                "path": "./themes/theme.color-fourth.json"
             }
         ]
     }
